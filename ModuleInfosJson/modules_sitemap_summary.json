@@ -1,0 +1,28 @@
+{
+  "title":			"modules_sitemap_tree",
+ "type":           "modules_sitemap_summary",
+  "vendor":			"ClicShopping",
+  "is_free":   "Yes",
+  "is_core":   "Yes",
+  "website_link_to_sell" : "",
+  "version":			1.0,
+  "req_core_version":	3.0,
+  "license":			"GPL 2 - MIT",
+  "tag":			    "template, sitemap, tree",
+ "install":            "sources/template/Default/",
+  "module_directory":   "modules_sitemap",
+  "apps_name":          "",
+  "type_module":      "template",
+  "dependance":       "",
+  "description":        "This module allow you to create sitemap summary with different important link of your website",
+   "image":            "ModuleInfosJson/sitemap.png",
+  "authors": [
+    {
+      "name":		    "ClicShopping Team",
+      "company":	    "Innov-concept",
+      "email":	      "",
+      "website":	    "http://www.clicshopping.com",
+      "Community":	  "http://www.clicshopping.org"
+    }
+  ]
+}
