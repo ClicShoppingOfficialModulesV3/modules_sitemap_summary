@@ -1,7 +1,7 @@
 {
   "title":			"modules_sitemap_tree",
  "type":           "modules_sitemap_summary",
-  "vendor":			"ClicShopping",
+  "vendor":			"modules_sitemap",
   "is_free":   "Yes",
   "is_core":   "Yes",
   "website_link_to_sell" : "",
