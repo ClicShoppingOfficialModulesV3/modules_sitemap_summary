@@ -11,6 +11,9 @@
  sitemap_summary_text_password = Password lost
 
  sitemap_summary_text_products_specials = See specials
+ sitemap_summary_text_products_favorites = See favorites
  sitemap_summary_text_products_whats_new = See products new
+ sitemap_summary_text_products_featured = See featured produts
 
  sitemap_summary_text_search_advanced_search = Search a product
+ sitemap_summary_text_blog = See the blog
